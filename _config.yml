@@ -59,33 +59,33 @@ navs:
     href: /
     label: Home
 
-  -
-    href: /spring-boot.html
-    label: Spring-Boot
+#  -
+#      href: /spring-boot.html
+ #     label: Spring-Boot
 
-  -
-    href: /spring-cloud.html
-    label: Spring-Cloud
+ #   -
+ #     href: /spring-cloud.html
+ #     label: Spring-Cloud
 
-  -
-    href: /archives.html
-    label: Archives
+ #   -
+ #     href: /archives.html
+#      label: Archives
 
-  -
-    href: /link.html
-    label: Link
+ #   -
+ #     href: /link.html
+  #    label: Link
 
-  -
-    href: /about.html
-    label: About
+#    -
+   #   href: /about.html
+  #    label: About
 
 
 # labels. my blog key words
-labels:
+#  labels:
 
-  -
-    href: /share/2017/10/01/resource-sharing.html
-    name: 资源
+#    -
+ #     href: /share/2017/10/01/resource-sharing.html
+ #     name: 资源
 
  # -
  #   href: /life.html
@@ -137,7 +137,7 @@ labels:
 # ---------------- #
 #       RSS        #
 # ---------------- #
-subscribe_rss: /feed.xml
+#  subscribe_rss: /feed.xml
 
 # Sidebar to show popular repo
 side_bar_repo_limit: 6 # Number of repos to show
